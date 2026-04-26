@@ -5,8 +5,8 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI+Database Research Podcast</title>
-    <link>https://mz44zhang.github.io/ai-database-podcast/</link>
-    <atom:link href="https://mz44zhang.github.io/ai-database-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://drmaggiezhang.com/ai-database-podcast/</link>
+    <atom:link href="https://drmaggiezhang.com/ai-database-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <description>A podcast series exploring the intersection of AI and Database systems — surveys, benchmarks, frontier paradigms, and open research questions. Generated from academic papers using NotebookLM, curated for PhD students and researchers entering the field.</description>
     <itunes:author>Xinyang Zhang</itunes:author>
@@ -30,7 +30,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>2112</itunes:duration>
-      <enclosure url="https://mz44zhang.github.io/ai-database-podcast/episodes/AI%2BDatabase%20Phase%201%20Overview.mp3" length="33797885" type="audio/mpeg"/>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%201%20Overview.mp3" length="33797885" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-db-podcast-phase1-overview-20260426</guid>
       <pubDate>Sat, 26 Apr 2026 10:47:00 +0000</pubDate>
     </item>
