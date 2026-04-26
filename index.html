@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI+Database Research Podcast</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 720px; margin: 40px auto; padding: 0 20px; color: #1d1d1f; line-height: 1.6; }
+    h1 { font-size: 1.8em; margin-bottom: 0.2em; }
+    .subtitle { color: #666; margin-bottom: 2em; }
+    .subscribe { background: #f5f5f7; border-radius: 12px; padding: 20px; margin: 24px 0; }
+    .subscribe h2 { margin-top: 0; font-size: 1.1em; }
+    .rss-url { background: #fff; border: 1px solid #d2d2d7; border-radius: 8px; padding: 10px 14px; font-family: monospace; font-size: 0.9em; word-break: break-all; cursor: pointer; }
+    .rss-url:hover { background: #e8e8ed; }
+    .episode { border-bottom: 1px solid #e5e5e5; padding: 20px 0; }
+    .episode h3 { margin-bottom: 0.3em; }
+    .meta { color: #888; font-size: 0.9em; }
+    .description { margin-top: 8px; }
+    audio { width: 100%; margin-top: 12px; }
+    footer { margin-top: 40px; color: #999; font-size: 0.85em; }
+  </style>
+</head>
+<body>
+  <h1>AI+Database Research Podcast</h1>
+  <p class="subtitle">Exploring the intersection of AI and Database systems — for PhD students and researchers entering the field.</p>
+
+  <div class="subscribe">
+    <h2>Subscribe in your podcast app</h2>
+    <p>Copy this RSS feed URL and add it to Apple Podcasts, Overcast, Pocket Casts, or any podcast app:</p>
+    <div class="rss-url" onclick="navigator.clipboard.writeText('https://mz44zhang.github.io/ai-database-podcast/feed.xml'); this.textContent='Copied!'; setTimeout(()=>this.textContent='https://mz44zhang.github.io/ai-database-podcast/feed.xml', 2000)">
+      https://mz44zhang.github.io/ai-database-podcast/feed.xml
+    </div>
+  </div>
+
+  <h2>Episodes</h2>
+
+  <div class="episode">
+    <h3>Episode 1: Autonomous Databases and the LLM Frontier</h3>
+    <div class="meta">Phase 1: Field Overview &middot; April 26, 2026 &middot; ~35 min</div>
+    <div class="description">An introductory overview of the AI+Database research field. Covers AI4DB vs DB4AI, text-to-SQL, learned database components, AI-native data systems, data agents, and LLM+data integration. Based on three foundational survey papers.</div>
+    <audio controls preload="none">
+      <source src="episodes/AI+Database Phase 1 Overview.mp3" type="audio/mpeg">
+    </audio>
+  </div>
+
+  <footer>
+    <p>Generated from academic papers using <a href="https://notebooklm.google.com">NotebookLM</a>. Part of a reading guide for the Zotero "AI + Database" collection.</p>
+  </footer>
+</body>
+</html>
