@@ -35,5 +35,18 @@
       <pubDate>Sat, 26 Apr 2026 10:47:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>Phase 2: Why LLMs Fail at Enterprise SQL</title>
+      <description>A deep dive into Text-to-SQL — the most studied problem at the AI+Database intersection. Covers: the evolution from rule-based to LLM-powered approaches, the benchmark ecosystem (BIRD, Spider, Spider 2.0), key technical challenges (schema linking, complex SQL, dirty databases), what DAIL-SQL revealed about prompt engineering, and the sobering reality that enterprise-grade Text-to-SQL remains far from solved. Based on five papers: "Next-Generation Database Interfaces" (Hong et al., TKDE 2025), "BIRD" (Li et al., NeurIPS 2024), "DAIL-SQL" (Gao et al., VLDB 2024), "NL2SQL: State of the Art" (Luo et al., VLDB 2025), and "Spider 2.0" (Lei et al., 2025).</description>
+      <itunes:summary>A deep dive into Text-to-SQL: benchmarks, LLM approaches, key challenges, and why enterprise NL2SQL is still far from solved. Based on five key papers.</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2253</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%202%20Text-to-SQL.mp3" length="36058488" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-db-podcast-phase2-text2sql-20260426</guid>
+      <pubDate>Sat, 26 Apr 2026 11:00:00 +0000</pubDate>
+    </item>
+
   </channel>
 </rss>
