@@ -21,6 +21,12 @@
     </itunes:category>
     <itunes:category text="Technology"/>
     <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://drmaggiezhang.com/ai-database-podcast/cover.png"/>
+    <image>
+      <url>https://drmaggiezhang.com/ai-database-podcast/cover.png</url>
+      <title>AI+Database Research Podcast</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/</link>
+    </image>
 
     <item>
       <title>Phase 1: Autonomous Databases and the LLM Frontier</title>
