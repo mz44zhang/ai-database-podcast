@@ -35,8 +35,8 @@
       <itunes:episode>1</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>2112</itunes:duration>
-      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%201%20Overview.mp3" length="33797885" type="audio/mpeg"/>
+      <itunes:duration>1050</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%201%20Overview.mp3" length="25204328" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-db-podcast-phase1-overview-20260426</guid>
       <pubDate>Sat, 26 Apr 2026 10:47:00 +0000</pubDate>
     </item>
@@ -48,8 +48,8 @@
       <itunes:episode>2</itunes:episode>
       <itunes:season>1</itunes:season>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>2253</itunes:duration>
-      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%202%20Text-to-SQL.mp3" length="36058488" type="audio/mpeg"/>
+      <itunes:duration>1120</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%202%20Text-to-SQL.mp3" length="26890167" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-db-podcast-phase2-text2sql-20260426</guid>
       <pubDate>Sat, 26 Apr 2026 11:00:00 +0000</pubDate>
     </item>
