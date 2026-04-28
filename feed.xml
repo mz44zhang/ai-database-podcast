@@ -60,5 +60,19 @@
       <pubDate>Sat, 26 Apr 2026 11:00:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>Why SQL Is the AI Bottleneck</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/#episode3</link>
+      <description>The field is moving beyond simple Text-to-SQL. This episode explores four frontier paradigms: TAG (Table-Augmented Generation), LOTUS (semantic operators), SUQL (free-text SQL extensions), and Data Agents (autonomy levels). How researchers got from Text-to-SQL limitations to entirely new ways of querying data with LLMs. Based on four papers.</description>
+      <content:encoded><![CDATA[<p>The field is moving beyond simple Text-to-SQL. This episode explores four frontier paradigms that redefine how LLMs interact with databases.</p><p>Covers: TAG — Table-Augmented Generation unifying LLM reasoning with database queries (Biswal et al., 2024), LOTUS — semantic operators extending relational algebra (Patel et al., 2024), SUQL — extending SQL with free-text primitives for conversational search (Liu et al., NAACL 2024), and Data Agents — a taxonomy of autonomy levels for LLM-powered data systems (Luo et al., 2026).</p><p>Shows how researchers moved from Text-to-SQL limitations to entirely new paradigms for querying structured and unstructured data together.</p>]]></content:encoded>
+      <itunes:summary>Beyond Text-to-SQL: TAG, LOTUS, SUQL, and Data Agents — four frontier paradigms redefining how LLMs interact with databases. Based on four key papers.</itunes:summary>
+      <itunes:author>Xinyang Zhang</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1236</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/phase3-beyond-sql.mp3" length="29678163" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-db-podcast-phase3-beyond-sql-20260428</guid>
+      <pubDate>Mon, 28 Apr 2026 12:00:00 +0000</pubDate>
+    </item>
+
   </channel>
 </rss>
