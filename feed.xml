@@ -33,7 +33,7 @@
     </image>
 
     <item>
-      <title>Autonomous Databases and the LLM Frontier</title>
+      <title>S1E1: Autonomous Databases and the LLM Frontier</title>
       <link>https://drmaggiezhang.com/ai-database-podcast/#episode1</link>
       <description>An introductory overview of the AI+Database research field for a first-year PhD student. Covers: AI4DB vs DB4AI, major research lines including text-to-SQL, learned database components, AI-native data systems, data agents, and LLM+data integration. Based on three foundational survey papers.</description>
       <content:encoded><![CDATA[<p>An introductory overview of the AI+Database research field for a first-year PhD student.</p><p>Covers: AI4DB vs DB4AI, major research lines including text-to-SQL, learned database components, AI-native data systems, data agents, and LLM+data integration.</p><p>Based on three foundational survey papers: "AI Meets Database" (Li et al., SIGMOD 2021), "Database Meets AI" (Zhou et al., 2021), and "A Survey of LLM x DATA" (Zhou et al., 2025).</p>]]></content:encoded>
@@ -47,7 +47,7 @@
     </item>
 
     <item>
-      <title>Why LLMs Fail at Enterprise SQL</title>
+      <title>S1E2: Why LLMs Fail at Enterprise SQL</title>
       <link>https://drmaggiezhang.com/ai-database-podcast/#episode2</link>
       <description>A deep dive into Text-to-SQL — the most studied problem at the AI+Database intersection. Covers: the evolution from rule-based to LLM-powered approaches, the benchmark ecosystem (BIRD, Spider, Spider 2.0), key technical challenges, and why enterprise-grade Text-to-SQL remains far from solved. Based on five key papers.</description>
       <content:encoded><![CDATA[<p>A deep dive into Text-to-SQL — the most studied problem at the AI+Database intersection.</p><p>Covers: the evolution from rule-based to LLM-powered approaches, the benchmark ecosystem (BIRD, Spider, Spider 2.0), key technical challenges (schema linking, complex SQL, dirty databases), what DAIL-SQL revealed about prompt engineering, and the sobering reality that enterprise-grade Text-to-SQL remains far from solved.</p><p>Based on five papers: "Next-Generation Database Interfaces" (Hong et al., TKDE 2025), "BIRD" (Li et al., NeurIPS 2024), "DAIL-SQL" (Gao et al., VLDB 2024), "NL2SQL: State of the Art" (Luo et al., VLDB 2025), and "Spider 2.0" (Lei et al., 2025).</p>]]></content:encoded>
@@ -61,7 +61,7 @@
     </item>
 
     <item>
-      <title>Why SQL Is the AI Bottleneck</title>
+      <title>S1E3: Why SQL Is the AI Bottleneck</title>
       <link>https://drmaggiezhang.com/ai-database-podcast/#episode3</link>
       <description>The field is moving beyond simple Text-to-SQL. This episode explores four frontier paradigms: TAG (Table-Augmented Generation), LOTUS (semantic operators), SUQL (free-text SQL extensions), and Data Agents (autonomy levels). How researchers got from Text-to-SQL limitations to entirely new ways of querying data with LLMs. Based on four papers.</description>
       <content:encoded><![CDATA[<p>The field is moving beyond simple Text-to-SQL. This episode explores four frontier paradigms that redefine how LLMs interact with databases.</p><p>Covers: TAG — Table-Augmented Generation unifying LLM reasoning with database queries (Biswal et al., 2024), LOTUS — semantic operators extending relational algebra (Patel et al., 2024), SUQL — extending SQL with free-text primitives for conversational search (Liu et al., NAACL 2024), and Data Agents — a taxonomy of autonomy levels for LLM-powered data systems (Luo et al., 2026).</p><p>Shows how researchers moved from Text-to-SQL limitations to entirely new paradigms for querying structured and unstructured data together.</p>]]></content:encoded>
