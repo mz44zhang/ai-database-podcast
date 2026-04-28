@@ -74,5 +74,19 @@
       <pubDate>Mon, 28 Apr 2026 12:00:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>S1E3: 让SQL拥有语义大脑</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/#episode4</link>
+      <description>本期节目探讨Text-to-SQL之后的前沿范式：TAG（表增强生成）将LLM推理与数据库查询统一，LOTUS引入语义算子扩展关系代数，SUQL用自由文本原语扩展SQL实现对话式搜索，以及数据代理（Data Agents）的自主性层级分类。基于四篇核心论文，展示研究者如何从Text-to-SQL的局限走向全新的数据查询范式。</description>
+      <content:encoded><![CDATA[<p>本期节目探讨Text-to-SQL之后的四大前沿范式，重新定义LLM与数据库的交互方式。</p><p>涵盖：TAG——表增强生成，统一LLM推理与数据库查询（Biswal et al., 2024）；LOTUS——语义算子扩展关系代数（Patel et al., 2024）；SUQL——用自由文本原语扩展SQL实现对话式搜索（Liu et al., NAACL 2024）；数据代理——LLM驱动数据系统的自主性层级分类（Luo et al., 2026）。</p><p>展示研究者如何从Text-to-SQL的局限走向结构化与非结构化数据联合查询的全新范式。</p>]]></content:encoded>
+      <itunes:summary>超越Text-to-SQL：TAG、LOTUS、SUQL与数据代理——四大前沿范式重新定义LLM与数据库的交互方式。基于四篇核心论文。</itunes:summary>
+      <itunes:author>Xinyang Zhang</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1123</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/s1e3-rang-sql-yong-you-yu-yi-da-nao.mp3" length="26957249" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-db-podcast-s1e3-rang-sql-yong-you-yu-yi-da-nao-20260428</guid>
+      <pubDate>Mon, 28 Apr 2026 13:00:00 +0000</pubDate>
+    </item>
+
   </channel>
 </rss>
