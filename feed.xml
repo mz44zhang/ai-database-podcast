@@ -8,6 +8,7 @@
     <link>https://drmaggiezhang.com/ai-database-podcast/</link>
     <atom:link href="https://drmaggiezhang.com/ai-database-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
+    <copyright>&#xA9; 2026 Xinyang Zhang</copyright>
     <description>A podcast series exploring the intersection of AI and Database systems — surveys, benchmarks, frontier paradigms, and open research questions. Generated from academic papers using NotebookLM, curated for PhD students and researchers entering the field.</description>
     <itunes:author>Xinyang Zhang</itunes:author>
     <itunes:summary>A podcast series exploring the intersection of AI and Database systems — surveys, benchmarks, frontier paradigms, and open research questions. Curated for PhD students and researchers entering the field.</itunes:summary>
@@ -17,39 +18,44 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education">
-      <itunes:category text="Higher Education"/>
+      <itunes:category text="Courses"/>
     </itunes:category>
     <itunes:category text="Technology"/>
+    <itunes:category text="Science">
+      <itunes:category text="Mathematics"/>
+    </itunes:category>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://drmaggiezhang.com/ai-database-podcast/cover.png"/>
+    <itunes:image href="https://drmaggiezhang.com/ai-database-podcast/cover.jpg"/>
     <image>
-      <url>https://drmaggiezhang.com/ai-database-podcast/cover.png</url>
+      <url>https://drmaggiezhang.com/ai-database-podcast/cover.jpg</url>
       <title>AI+Database Research Podcast</title>
       <link>https://drmaggiezhang.com/ai-database-podcast/</link>
     </image>
 
     <item>
-      <title>Phase 1: Autonomous Databases and the LLM Frontier</title>
-      <description>An introductory overview of the AI+Database research field for a first-year PhD student. Covers: AI4DB vs DB4AI, major research lines including text-to-SQL, learned database components, AI-native data systems, data agents, and LLM+data integration. Based on three foundational survey papers: "AI Meets Database" (Li et al., SIGMOD 2021), "Database Meets AI" (Zhou et al., 2021), and "A Survey of LLM x DATA" (Zhou et al., 2025).</description>
+      <title>Autonomous Databases and the LLM Frontier</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/#episode1</link>
+      <description>An introductory overview of the AI+Database research field for a first-year PhD student. Covers: AI4DB vs DB4AI, major research lines including text-to-SQL, learned database components, AI-native data systems, data agents, and LLM+data integration. Based on three foundational survey papers.</description>
+      <content:encoded><![CDATA[<p>An introductory overview of the AI+Database research field for a first-year PhD student.</p><p>Covers: AI4DB vs DB4AI, major research lines including text-to-SQL, learned database components, AI-native data systems, data agents, and LLM+data integration.</p><p>Based on three foundational survey papers: "AI Meets Database" (Li et al., SIGMOD 2021), "Database Meets AI" (Zhou et al., 2021), and "A Survey of LLM x DATA" (Zhou et al., 2025).</p>]]></content:encoded>
       <itunes:summary>An introductory overview of the AI+Database research field. Covers AI4DB vs DB4AI, major research lines, and open questions from three foundational survey papers.</itunes:summary>
-      <itunes:episode>1</itunes:episode>
-      <itunes:season>1</itunes:season>
+      <itunes:author>Xinyang Zhang</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>1050</itunes:duration>
-      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%201%20Overview%20v2.mp3" length="25204328" type="audio/mpeg"/>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/phase1-overview.mp3" length="25204328" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-db-podcast-phase1-overview-20260426</guid>
       <pubDate>Sat, 26 Apr 2026 10:47:00 +0000</pubDate>
     </item>
 
     <item>
-      <title>Phase 2: Why LLMs Fail at Enterprise SQL</title>
-      <description>A deep dive into Text-to-SQL — the most studied problem at the AI+Database intersection. Covers: the evolution from rule-based to LLM-powered approaches, the benchmark ecosystem (BIRD, Spider, Spider 2.0), key technical challenges (schema linking, complex SQL, dirty databases), what DAIL-SQL revealed about prompt engineering, and the sobering reality that enterprise-grade Text-to-SQL remains far from solved. Based on five papers: "Next-Generation Database Interfaces" (Hong et al., TKDE 2025), "BIRD" (Li et al., NeurIPS 2024), "DAIL-SQL" (Gao et al., VLDB 2024), "NL2SQL: State of the Art" (Luo et al., VLDB 2025), and "Spider 2.0" (Lei et al., 2025).</description>
+      <title>Why LLMs Fail at Enterprise SQL</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/#episode2</link>
+      <description>A deep dive into Text-to-SQL — the most studied problem at the AI+Database intersection. Covers: the evolution from rule-based to LLM-powered approaches, the benchmark ecosystem (BIRD, Spider, Spider 2.0), key technical challenges, and why enterprise-grade Text-to-SQL remains far from solved. Based on five key papers.</description>
+      <content:encoded><![CDATA[<p>A deep dive into Text-to-SQL — the most studied problem at the AI+Database intersection.</p><p>Covers: the evolution from rule-based to LLM-powered approaches, the benchmark ecosystem (BIRD, Spider, Spider 2.0), key technical challenges (schema linking, complex SQL, dirty databases), what DAIL-SQL revealed about prompt engineering, and the sobering reality that enterprise-grade Text-to-SQL remains far from solved.</p><p>Based on five papers: "Next-Generation Database Interfaces" (Hong et al., TKDE 2025), "BIRD" (Li et al., NeurIPS 2024), "DAIL-SQL" (Gao et al., VLDB 2024), "NL2SQL: State of the Art" (Luo et al., VLDB 2025), and "Spider 2.0" (Lei et al., 2025).</p>]]></content:encoded>
       <itunes:summary>A deep dive into Text-to-SQL: benchmarks, LLM approaches, key challenges, and why enterprise NL2SQL is still far from solved. Based on five key papers.</itunes:summary>
-      <itunes:episode>2</itunes:episode>
-      <itunes:season>1</itunes:season>
+      <itunes:author>Xinyang Zhang</itunes:author>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:duration>1120</itunes:duration>
-      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/AI%2BDatabase%20Phase%202%20Text-to-SQL%20v2.mp3" length="26890167" type="audio/mpeg"/>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/phase2-text-to-sql.mp3" length="26890167" type="audio/mpeg"/>
       <guid isPermaLink="false">ai-db-podcast-phase2-text2sql-20260426</guid>
       <pubDate>Sat, 26 Apr 2026 11:00:00 +0000</pubDate>
     </item>
