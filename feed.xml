@@ -102,5 +102,33 @@
       <pubDate>Mon, 28 Apr 2026 14:00:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>S1E5: The Death of the Flat Table</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/#episode6</link>
+      <description>Phase 5A: Learning over data, not just querying it. Three papers betting that the next move in data systems isn't a smarter query language — it's treating data itself as a substrate for representation learning. Covers RelBench, Rel-LLM, and a survey of LLMs + vector databases.</description>
+      <content:encoded><![CDATA[<p>Phase 5A: Learning over data, not just querying it.</p><p>SQL gives you "what's in row 3?" — but it doesn't give you "what's likely about user X given their full graph of transactions, friends, and posts." Three papers stake out the answer: stop bolting AI onto queries; turn the database itself into a substrate for representation learning. RelBench (Robinson et al., NeurIPS 2024) — the benchmark for relational deep learning over multi-table schemas. Rel-LLM (Wu et al., 2025) — combining GNN-style relational representations with an LLM, from Leskovec's group. "When Large Language Models Meet Vector Databases" (Jing et al., 2024) — the parallel story for unstructured data: embeddings + ANN as the new memory layer.</p><p>Together they ask: what does the database look like when models, not just queries, are first-class consumers of the data?</p>]]></content:encoded>
+      <itunes:summary>Phase 5A: three papers reframing the database as a substrate for representation learning. RelBench, Rel-LLM, and LLM + vector DB survey.</itunes:summary>
+      <itunes:author>Xinyang Zhang</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2377</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/phase5a-learning-over-data.mp3" length="57064103" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-db-podcast-phase5a-learning-over-data-20260428</guid>
+      <pubDate>Mon, 28 Apr 2026 15:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>S1E6: Enterprise Text-to-SQL in Production Reality</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/#episode7</link>
+      <description>Phase 5B: production realities — ops, retrieval, and continuous learning. Three places where the pretty research story breaks against operational reality: retrieval-augmented Text-to-SQL (CHESS), continuous learning under enterprise drift (GenEdit), and database operations as something an agent must perform (AgentFM).</description>
+      <content:encoded><![CDATA[<p>Phase 5B: production realities — ops, retrieval, and continuous learning.</p><p>A demo on a clean Spider schema works beautifully; the same model on a real enterprise schema with 200 tables, cryptic column names, and undocumented foreign keys crashes immediately. Three papers stare at this gap. CHESS (Talaei et al., 2024) — Contextual Harnessing for Efficient SQL Synthesis, retrieval-augmented Text-to-SQL on real schemas. GenEdit (Maamari et al., 2025) — compounding NL2SQL improvements via continuous editing in enterprise deployment. AgentFM (Zhang et al., 2025) — a role-aware foundation model for database administration / AIOps, reframing the database as something an agent must operate, not just query.</p><p>Three loci of "production reality": retrieval, continuous learning, and ops.</p>]]></content:encoded>
+      <itunes:summary>Phase 5B: three papers on what it actually takes to ship LLM-native data systems. CHESS retrieval, GenEdit continuous learning, AgentFM AIOps.</itunes:summary>
+      <itunes:author>Xinyang Zhang</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>2646</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/phase5b-production-realities.mp3" length="63515303" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-db-podcast-phase5b-production-realities-20260428</guid>
+      <pubDate>Mon, 28 Apr 2026 16:00:00 +0000</pubDate>
+    </item>
+
   </channel>
 </rss>
