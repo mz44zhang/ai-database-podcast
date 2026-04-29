@@ -88,5 +88,19 @@
       <pubDate>Mon, 28 Apr 2026 13:00:00 +0000</pubDate>
     </item>
 
+    <item>
+      <title>S1E4: Rebuilding the Database for AI</title>
+      <link>https://drmaggiezhang.com/ai-database-podcast/#episode5</link>
+      <description>Phase 4: AI-native database systems. What does it mean to rebuild the database from scratch for an LLM-driven world? This episode explores three papers on agent-first data systems, declarative AI analytics, and the provocative idea that LLMs could replace traditional query optimizers.</description>
+      <content:encoded><![CDATA[<p>Phase 4: AI-native database systems. What does it mean to rebuild the database from scratch for an LLM-driven world?</p><p>This episode explores three papers staking out the agenda. "Supporting Our AI Overlords" (Liu et al., 2025) — a Berkeley vision paper on agent-first data systems, redefining the interface from human-issued SQL to agents that observe, reason, and act over data. PALIMPZEST (Liu et al., 2024) — a declarative system for AI analytics from MIT that brings classic database query-optimization ideas to LLM-powered workloads. LLM-QO (Tan et al., SIGMOD 2025) — can a large language model take over the role of a traditional cost-based query optimizer? A novel and provocative test of where learned components are ready to replace handcrafted ones.</p><p>Together these papers map the next layer of the stack: not better Text-to-SQL, but a database designed AROUND AI rather than instrumented for it.</p>]]></content:encoded>
+      <itunes:summary>What does it mean to rebuild the database from scratch for an LLM-driven world? Agent-first data systems, declarative AI analytics, and LLMs as query optimizers. Based on three papers.</itunes:summary>
+      <itunes:author>Xinyang Zhang</itunes:author>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>1277</itunes:duration>
+      <enclosure url="https://drmaggiezhang.com/ai-database-podcast/episodes/phase4-ai-native-databases.mp3" length="30669354" type="audio/mpeg"/>
+      <guid isPermaLink="false">ai-db-podcast-phase4-ai-native-databases-20260428</guid>
+      <pubDate>Mon, 28 Apr 2026 14:00:00 +0000</pubDate>
+    </item>
+
   </channel>
 </rss>
